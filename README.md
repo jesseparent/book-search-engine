@@ -4,7 +4,7 @@
 
 ## Description
 
-A Node.js application that provides a social network API to create users, friend lists, thoughts, and reactions
+A Node.js application that provides a social network API to create users, friend lists, thoughts, and reactions. The application is deployed at https://jparent-book-search.herokuapp.com/
 
 ## Table of Contents
 
