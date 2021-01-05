@@ -35,7 +35,6 @@ input BookInput {
 }
 
 type Query {
-  users: [User]
   me: User
 }
 
